@@ -10,12 +10,12 @@ body{
 }
 
 :root{
-    --primary-color: #FFA500;
-    --secondary-color: #4CAF50;
+    --primary-color: #F6EBDD;
+    --secondary-color: #ACBFB7;
     --text-color: #062D3E;
-    --text-primary-color: #ffffff;
+    --text-primary-color: #18191F;
     --text-secundary-color: #18191F;
-    --accent-color: #333333;
+    --accent-color: #F6EBDD;
 }
 
 body{
