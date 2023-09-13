@@ -35,168 +35,29 @@ FASTFOOD
 
 SEPTIEMBRE 2023
 
+
+
 **Registro de Versiones**
 
-+--------+-----------+-------------------+----------------------------+
-| **Ver  | **Fecha** | **Autor**         | **Descripción de           |
-| sión** |           |                   | modificación**             |
-+========+===========+===================+============================+
-| TB1    | > Domingo | -   **Achamizo    | > Se han incluido los      |
-|        | > 10 de   |     > Huamani,    | > capítulos:               |
-|        | >         |     > Jean**      | >                          |
-|        | setiembre |                   | > ● Capítulo I:            |
-|        |           | -   **Torres      | > Introducción             |
-|        |           |     > Alva,       | >                          |
-|        |           |     > Alejandro** | > ● Capítulo II:           |
-|        |           |                   | > Requirements             |
-|        |           | -   **Castro      | >                          |
-|        |           |     > Soto,       | > Elicitation & Analysis,  |
-|        |           |     > Sebastian   | >                          |
-|        |           |     > Enrique**   | > ● Capítulo III:          |
-|        |           |                   | > Requirements             |
-|        |           | -   **Oliveira    | >                          |
-|        |           |     > Paucar,     | > Specification            |
-|        |           |     > Mauricio**  | >                          |
-|        |           |                   | > ● Capítulo IV: Product   |
-|        |           | -   **Zagal       | > Design                   |
-|        |           |     > Vallejo,    | >                          |
-|        |           |     > Nicolás**   | > ● Capítulo V: Product    |
-|        |           |                   | >                          |
-|        |           |                   | > Implementation,          |
-|        |           |                   | > Validation &             |
-|        |           |                   | >                          |
-|        |           |                   | > Deployment               |
-|        |           |                   | >                          |
-|        |           |                   | > ● Avance de              |
-|        |           |                   | > Conclusiones,            |
-|        |           |                   | >                          |
-|        |           |                   | > Bibliografía y Anexos    |
-+--------+-----------+-------------------+----------------------------+
-| TP1    |           |                   |                            |
-+--------+-----------+-------------------+----------------------------+
-| TB2    |           |                   |                            |
-+--------+-----------+-------------------+----------------------------+
-| TF     |           |                   |                            |
-+--------+-----------+-------------------+----------------------------+
+
+|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
+| :- | :- | :- | :- |
+|TB1|Domingo 10 de setiembre|<p>- **Achamizo Huamani, Jean**</p><p>- **Torres Alva, Alejandro**</p><p>- **Castro Soto, Sebastian Enrique**</p><p>- **Oliveira Paucar, Mauricio**</p><p>- **Zagal Vallejo, Nicolás**</p><p></p>|<p>Se han incluido los capítulos:</p><p>● Capítulo I: Introducción</p><p>● Capítulo II: Requirements</p><p>Elicitation & Analysis,</p><p>● Capítulo III: Requirements</p><p>Specification</p><p>● Capítulo IV: Product Design</p><p>● Capítulo V: Product</p><p>Implementation, Validation &</p><p>Deployment</p><p>● Avance de Conclusiones,</p><p>Bibliografía y Anexos</p>|
+|TP1||||
+|TB2||||
+|TF||||
+
+
+
 
 **Student Outcome**
 
-+---------------+------------------------------+-----------------------+
-| **Criterio    | **Acciones Realizadas**      | **Conclusiones**      |
-| específico**  |                              |                       |
-+===============+==============================+=======================+
-| Comunica      | **Achamizo Huamani, Jean**   | **TB1:**              |
-| oralmente sus |                              |                       |
-| ideas y/o     | **TB1:**                     | Se establecieron      |
-| resultados    |                              | bases sólidas en      |
-| con           | Junto con el equipo          | términos de           |
-| objetividad a | realizamos diferentes        | requisitos, diseño,   |
-| público de    | reuniones presenciales para  | desarrollo y pruebas, |
-| diferentes    | organizar de manera          | lo que ha fortalecido |
-| e             | eficiente la solución        | nuestra confianza en  |
-| specialidades | propuesta.                   | el futuro del         |
-| y niveles     |                              | producto.             |
-| jerárquicos,  | **Oliveira Paucar,           |                       |
-| en el marco   | Mauricio**                   | **TP1:**              |
-| del           |                              |                       |
-| desarrollo de | **TB1:**                     | **TB2:**              |
-| un proyecto   |                              |                       |
-| en            | El equipo se reunió y se     | **TF:**               |
-| ingeniería.   | repartió responsabilidades,  |                       |
-|               | después de llegar a un       |                       |
-|               | acuerdo en la idea del       |                       |
-|               | proyecto.                    |                       |
-|               |                              |                       |
-|               | **Torres Alva, Alejandro**   |                       |
-|               |                              |                       |
-|               | **TB1:**                     |                       |
-|               |                              |                       |
-|               | Nos reunimos con el grupo    |                       |
-|               | para organizar nuestras      |                       |
-|               | ideas y así poder            |                       |
-|               | desarrollar un proyecto con  |                       |
-|               | más eficiencia.              |                       |
-|               |                              |                       |
-|               | **Castro Soto, Sebastian     |                       |
-|               | Enrique**                    |                       |
-|               |                              |                       |
-|               | **TB1:**                     |                       |
-|               |                              |                       |
-|               | Nuestro grupo de trabajo     |                       |
-|               | desarrollo una idea para     |                       |
-|               | hacer el trabajo de manera   |                       |
-|               | que sea rentable sin excluir |                       |
-|               | a ninguna persona            |                       |
-|               |                              |                       |
-|               | **Zagal Vallejo, Nicolás**   |                       |
-|               |                              |                       |
-|               | **TB1:**                     |                       |
-|               |                              |                       |
-|               | El grupo se reunió en        |                       |
-|               | múltiples ocasiones en       |                       |
-|               | función de pulir cada        |                       |
-|               | aspecto del proyecto en      |                       |
-|               | función de desarrollarlo con |                       |
-|               | la mayor eficiencia posible  |                       |
-+---------------+------------------------------+-----------------------+
-| Comunica en   | **Achamizo Huamani, Jean**   | ***TB1:***            |
-| forma escrita |                              |                       |
-| ideas y/o     | **TB1:**                     | Nuestro equipo ha     |
-| resultados    |                              | demostrado su         |
-| con           | Nos hemos centrado en una    | habilidad para        |
-| objetividad a | comunicación efectiva con    | adaptar su            |
-| público de    | una audiencia diversa,       | comunicación a        |
-| diferentes    | incluyendo usuarios finales  | diferentes            |
-| e             | y expertos culinarios.       | especialidades y      |
-| specialidades |                              | niveles jerárquicos.  |
-| y niveles     | **Torres Alva, Alejandro**   | Esto es esencial para |
-| jerárquicos,  |                              | asegurarse de que el  |
-| en el marco   | **TB1:**                     | proyecto sea          |
-| del           |                              | comprensible y útil   |
-| desarrollo de | Nos centramos en dos         | para todos los        |
-| un proyecto   | públicos objetivos que       | involucrados, desde   |
-| en            | serían los usuarios y los    | los usuarios finales  |
-| ingeniería..  | cocineros, por lo que al     | hasta los chefs que   |
-|               | tratar con ellos de manera   | utilizarán la         |
-|               | oral para así poder tener    | aplicación.           |
-|               | ideas más claras para        |                       |
-|               | nuestro proyecto.            | ***TP1:***            |
-|               |                              |                       |
-|               | **Castro Soto, Sebastian     | ***TB2:***            |
-|               | Enrique**                    |                       |
-|               |                              | ***TF:***             |
-|               | **TB1:**                     |                       |
-|               |                              |                       |
-|               | Según nuestro segmento       |                       |
-|               | objetivo e ideas iniciales   |                       |
-|               | logramos plazmar en todo el  |                       |
-|               | trabajo la idea del          |                       |
-|               | aplicativo que conectara     |                       |
-|               | cocineros con recetas        |                       |
-|               |                              |                       |
-|               | **Oliveira Paucar,           |                       |
-|               | Mauricio**                   |                       |
-|               |                              |                       |
-|               | **TB1:**                     |                       |
-|               |                              |                       |
-|               | El equipo llegó a la         |                       |
-|               | conclusión de tener dos      |                       |
-|               | segmentos objetivos          |                       |
-|               | (usuarios y chefs). Logrando |                       |
-|               | asi un mejor resultado para  |                       |
-|               | el proyecto.                 |                       |
-|               |                              |                       |
-|               | **Zagal Vallejo, Nicolás**   |                       |
-|               |                              |                       |
-|               | **TB1:**                     |                       |
-|               |                              |                       |
-|               | Hemos decidido destacar dos  |                       |
-|               | segmentos objetivos para     |                       |
-|               | poder conseguir un resultado |                       |
-|               | óptimo en el proyecto        |                       |
-|               | destacando las necesidades   |                       |
-|               | de cada uno                  |                       |
-+---------------+------------------------------+-----------------------+
+
+|**Criterio específico**|**Acciones Realizadas**|**Conclusiones**|
+| :- | :- | :- |
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Achamizo Huamani, Jean**</p><p>**TB1:**</p><p>Junto con el equipo realizamos diferentes reuniones presenciales para  organizar de manera eficiente la solución propuesta.</p><p></p><p>**Oliveira Paucar, Mauricio**</p><p>**TB1:** </p><p>El equipo se reunió y se repartió responsabilidades, después de llegar a un acuerdo en la idea del proyecto.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:** </p><p>Nos reunimos con el grupo para organizar nuestras ideas y así poder desarrollar un proyecto con más eficiencia.</p><p></p><p>**Castro Soto, Sebastian Enrique**</p><p>**TB1:**</p><p>Nuestro grupo de trabajo desarrollo una idea para hacer el trabajo de manera que sea rentable sin excluir a ninguna persona</p><p></p><p>**Zagal Vallejo, Nicolás**</p><p>**TB1:** </p><p>El grupo se reunió en múltiples ocasiones en función de pulir cada aspecto del proyecto en función de desarrollarlo con la mayor eficiencia posible</p>|<p>**TB1:**</p><p>Se establecieron bases sólidas en términos de requisitos, diseño, desarrollo y pruebas, lo que ha fortalecido nuestra confianza en el futuro del producto. </p><p></p><p>**TP1:**</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería..|<p>**Achamizo Huamani, Jean**</p><p>**TB1:**</p><p>Nos hemos centrado en una comunicación efectiva con una audiencia diversa, incluyendo usuarios finales y expertos culinarios.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Nos centramos en dos públicos objetivos que serían los usuarios y los cocineros, por lo que al tratar con ellos de manera oral para así poder tener ideas más claras para nuestro proyecto.</p><p></p><p>**Castro Soto, Sebastian Enrique**</p><p>**TB1:**</p><p>Según nuestro segmento objetivo e ideas iniciales logramos plazmar en todo el trabajo la idea del aplicativo que conectara cocineros con recetas</p><p></p><p>**Oliveira Paucar, Mauricio**</p><p>**TB1:** </p><p>El equipo llegó a la conclusión de tener dos segmentos objetivos (usuarios y chefs). Logrando asi un mejor resultado para el proyecto.</p><p></p><p>**Zagal Vallejo, Nicolás**</p><p>**TB1:** </p><p>Hemos decidido destacar dos segmentos objetivos para poder conseguir un resultado óptimo en el proyecto destacando las necesidades de cada uno</p><p></p>|<p>***TB1:***</p><p>Nuestro equipo ha demostrado su habilidad para adaptar su comunicación a diferentes especialidades y niveles jerárquicos. Esto es esencial para asegurarse de que el proyecto sea comprensible y útil para todos los involucrados, desde los usuarios finales hasta los chefs que utilizarán la aplicación.</p><p></p><p>***TP1:***</p><p></p><p>***TB2:***</p><p></p><p>***TF:***</p>|
+
 
 1.1.1. Descripción de la Startup
 
