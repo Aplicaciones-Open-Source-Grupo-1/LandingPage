@@ -153,7 +153,12 @@ section{
     font-size: 64px;
     font-style: normal;
     font-weight: 700;
-    line-height: 77.5px; 
+    line-height: 77.5px;
+    background: linear-gradient(45deg, #fff, #007ACC, #E53E3E);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent; 
 }
 
 .left-column p{
@@ -166,11 +171,12 @@ section{
     font-weight: 400;
     line-height: 28px;
     letter-spacing: 0.8px;
+    color: #000; 
 }
 
 
 .read-more-button {
-    background-color: #E53E3E; 
+    background-color: var(--secondary-color); 
     color: #fff; 
     padding: 10px 20px; 
     border: none;
@@ -182,7 +188,7 @@ section{
 
 
 .download-button {
-    background-color: transparent; 
+    background-color:#D32F2F ; 
     color: #fff; 
     padding: 10px 20px; 
     border: 2px solid #fff; 
@@ -218,7 +224,7 @@ section{
     background-color: var(--primary-color); 
     padding: 5px;
     padding-top: 20px;
-    color: #fff; 
+    color: #000; 
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -357,7 +363,7 @@ section{
     }
 
     .download-button {
-        background-color: #E53E3E;
+        background-color: #D32F2F;
         color: #fff;
         padding: 10px 20px;
         border: none;
